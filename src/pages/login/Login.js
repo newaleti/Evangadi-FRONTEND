@@ -150,22 +150,13 @@ if(!userData.user)
           <div className="login-aboutTitle">Evangadi Network Q&A</div>
           <div className="paragraph">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa
-              tincidunt dui ut ornare lectus sit.
+              No matter what stage of life you are in, whether you’re just starting 
+              elementary school or being promoted to CEO of a Fortune 500 company, you have much to 
+              offer to those who are trying to follow in your footsteps.
             </p>
             <p>
-              Varius morbi enim nunc faucibus a. Aliquam ut porttitor leo a
-              diam. Mi quis hendrerit dolor magna eget est lorem ipsum. Rhoncus
-              dolor purus non enim. Consequat ac felis donec et odio
-              pellentesque diam volutpat.
-            </p>
-            <p>
-              Euismod nisi porta lorem mollis aliquam ut. Elementum pulvinar
-              etiam non quam lacus suspendisse faucibus interdum. Massa eget
-              egestas purus viverra. Aenean euismod elementum nisi quis
-              eleifend. Quam quisque id diam vel quam elementum pulvinar etiam
-              non.
+              Wheather you are willing to share your knowledge or you are just looking to meet 
+              mentors of your own, please start by joining the network here.
             </p>
           </div>
           <button className="button">
